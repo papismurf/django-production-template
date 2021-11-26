@@ -1,7 +1,5 @@
 # Securely Deploy a Django App With Gunicorn, Nginx, & HTTPS
 
-This directory contains the Django project created in the tutorial [Securely Deploy a Django App With Gunicorn, Nginx, & HTTPS](https://realpython.com/django-nginx-gunicorn/).
-
 It requires Python 3.8 or higher and Django 3.2.
 
 Here's what this repository and the tutorial illustrate:
